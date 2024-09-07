@@ -25,6 +25,14 @@ Welcome to my cybersecurity portfolio! This repository showcases various **cyber
 - Network Security
 - Malware Analysis
 
+## 🏆 Certifications
+[![CompTIA A+](https://img.shields.io/badge/CompTIA-A+-red)](https://www.your-certificate-link.com)
+[![CompTIA Cloud Essentials+](https://img.shields.io/badge/CompTIA-Cloud_Essentials+-blue)](https://www.your-certificate-link.com)
+[![CompTIA Network+](https://img.shields.io/badge/CompTIA-Network+-orange)](https://www.your-certificate-link.com)
+[![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security+-green)](https://www.your-certificate-link.com)
+[![CompTIA CySA+](https://img.shields.io/badge/CompTIA-CySA+-purple)](https://www.your-certificate-link.com)
+
+
 ## 📫 Contact
 Feel free to reach out or connect with me:
 - [LinkedIn](https://www.linkedin.com/in/isaiah-bernal-707576218/)
