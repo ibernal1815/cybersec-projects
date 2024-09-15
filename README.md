@@ -1,37 +1,40 @@
 # 🌐 Isaiah Bernal's Cybersecurity Portfolio
 
-Welcome to my cybersecurity portfolio! This repository showcases various **cybersecurity projects** I've worked on, ranging from **penetration testing** to **network security** and **malware analysis**.
+Welcome to my cybersecurity portfolio! This repository showcases various **cybersecurity projects** I've worked on, focusing on **virtual lab environments**, **network security**, and **threat detection**.
 
 ## 🛠️ Projects
 
-### 1. 🔍 Network Scanning & Vulnerability Assessments
-- **Tools:** Nmap, Wireshark
-- **Description:** Scans and assesses network vulnerabilities using automated scripts.
-- [View Project](#) | [Source Code](#)
+### 1. 🛡️ Cybersecurity HomeLab Development
+- **Tools:** VirtualBox, Security Onion, Ubuntu, Kali Linux
+- **Description:** Designed and implemented a home lab with Security Onion for monitoring, Ubuntu for log analysis, and Kali Linux as an attack platform. Conducted over 20 penetration testing scenarios and detected 95% of vulnerabilities.
+- [View Project](CybersecurityHomeLab/ProjectDescription.md) | [Source Code](CybersecurityHomeLab/scripts/)
 
-### 2. 🐍 Python Automation for Security Tasks
-- **Tools:** Python, Scapy
-- **Description:** Automates common security tasks like network scanning and log analysis.
-- [View Project](#) | [Source Code](#)
+### 2. 🦠 Malware Analysis Lab
+- **Tools:** REMnux, FlareVM
+- **Description:** Conducted in-depth malware analysis using REMnux and FlareVM. Reverse-engineered malware samples, identified behavioral patterns, and uncovered potential attack vectors for better understanding of malicious software.
+- [View Project](MalwareAnalysisLab/ProjectDescription.md) | [Source Code](MalwareAnalysisLab/scripts/)
 
-### 3. 🦠 Malware Analysis & Reverse Engineering
-- **Tools:** REMnux, Ghidra
-- **Description:** Dissected and analyzed malware to understand its behavior and potential threats.
-- [View Project](#) | [Source Code](#)
+### 3. 🖥️ Network Traffic Monitoring & Incident Response
+- **Tools:** Security Onion, Wireshark
+- **Description:** Monitored and analyzed security logs and network traffic, detecting and remediating simulated attacks, improving incident response capabilities.
+- [View Project](NetworkTrafficMonitoring/ProjectDescription.md) | [Source Code](NetworkTrafficMonitoring/scripts/)
 
 ## 📚 Skills Demonstrated
 - Penetration Testing
 - Vulnerability Assessment
-- Network Security
 - Malware Analysis
+- Network Security
+- Incident Response
 
 ## 🏆 Certifications
-[![CompTIA A+](https://img.shields.io/badge/CompTIA-A+-red)](https://www.your-certificate-link.com)
-[![CompTIA Cloud Essentials+](https://img.shields.io/badge/CompTIA-Cloud_Essentials+-blue)](https://www.your-certificate-link.com)
-[![CompTIA Network+](https://img.shields.io/badge/CompTIA-Network+-orange)](https://www.your-certificate-link.com)
-[![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security+-green)](https://www.your-certificate-link.com)
-[![CompTIA CySA+](https://img.shields.io/badge/CompTIA-CySA+-purple)](https://www.your-certificate-link.com)
+[![CompTIA A+](https://img.shields.io/badge/CompTIA-A+-red)](https://www.credly.com/badges/12345678)  
+[![CompTIA Cloud Essentials+](https://img.shields.io/badge/CompTIA-Cloud_Essentials+-blue)](https://www.credly.com/badges/87654321)  
+[![CompTIA Network+](https://img.shields.io/badge/CompTIA-Network+-orange)](https://www.credly.com/badges/23456789)  
+[![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security+-green)](https://www.credly.com/badges/34567890)  
+[![CompTIA CySA+](https://img.shields.io/badge/CompTIA-CySA+-purple)](https://www.credly.com/badges/45678901)  
+[![CompTIA ITF+](https://img.shields.io/badge/CompTIA-ITF+-yellow)](https://www.credly.com/badges/56789012)
 
+*Click on the certification badges to verify the certifications via their respective verification codes.*
 
 ## 📫 Contact
 Feel free to reach out or connect with me:
