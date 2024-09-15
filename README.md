@@ -27,12 +27,11 @@ Welcome to my cybersecurity portfolio! This repository showcases various **cyber
 - Incident Response
 
 ## 🏆 Certifications
-[![CompTIA A+](https://img.shields.io/badge/CompTIA-A+-red)](https://www.credly.com/badges/12345678)  
-[![CompTIA Cloud Essentials+](https://img.shields.io/badge/CompTIA-Cloud_Essentials+-blue)](https://www.credly.com/badges/87654321)  
-[![CompTIA Network+](https://img.shields.io/badge/CompTIA-Network+-orange)](https://www.credly.com/badges/23456789)  
-[![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security+-green)](https://www.credly.com/badges/34567890)  
-[![CompTIA CySA+](https://img.shields.io/badge/CompTIA-CySA+-purple)](https://www.credly.com/badges/45678901)  
-[![CompTIA ITF+](https://img.shields.io/badge/CompTIA-ITF+-yellow)](https://www.credly.com/badges/56789012)
+[![CompTIA A+](https://img.shields.io/badge/CompTIA-A+-red)](https://www.credly.com/badges/d933b8ac-1719-4766-a613-eb0a22902fa2)
+[![CompTIA Cloud Essentials+](https://img.shields.io/badge/CompTIA-Cloud_Essentials+-blue)](https://www.credly.com/badges/25f2f90f-6d28-4123-a35c-8584743f9ca2)
+[![CompTIA Network+](https://img.shields.io/badge/CompTIA-Network+-orange)](https://www.credly.com/badges/965f441e-2849-48ba-8cb9-55e4a218b35f)
+[![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security+-green)](https://www.credly.com/badges/35f0bdaf-c43e-414f-8b43-1261adda46bd)
+[![CompTIA CySA+](https://img.shields.io/badge/CompTIA-CySA+-purple)](https://www.credly.com/badges/5f524d0a-d300-41b0-a5f8-0d17dbfe690f)
 
 *Click on the certification badges to verify the certifications via their respective verification codes.*
 
